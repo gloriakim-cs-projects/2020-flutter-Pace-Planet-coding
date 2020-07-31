@@ -25,7 +25,7 @@ https://tothemoonandhack.devpost.com/
 
 - Walkr https://play.google.com/store/apps/details?id=com.fourdesire.spacewalk&hl=en_US
 
-**PLAN1: MANAGEABLE + SOME CHALLENGES **
+***PLAN1: MANAGEABLE + SOME CHALLENGES***
 
 **1. TRACKING APP: Pace Planet: Study Planner for Space Travellers 행성의 속도를 재다: 스페이스를 여행하는 자들의 모임 (ex) 열품타**
 
