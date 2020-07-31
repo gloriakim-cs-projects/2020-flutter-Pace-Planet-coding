@@ -28,17 +28,18 @@ The app allows users to track their studying hours.
 - Option 3: Give a special planet, Octocat Planet that looks like Octocat 
 - Option 4: If the person stays in the same seat (track the space), then rewards with new special planets. (Because you don't really move around when you study.) BUT just in case someone can move around, make sure users to set this setting. Or, simply let users know this is an extra feature to collect a special planet.
 - Option 5: Send a notification to encourage studying? (Maybe giving too much pressures?)
+- Option 6: To advertise COVID-19, allow the planets to wear masks. (customize planets?)
 - Requirements: Android Studio
 - Benefits: I already know how to build most features. Can shoot for some challenges (UiPath)
 - Drawbacks: There is no much challenges.
 
 4. GAME: Planet Collector / Planet Go
-Pokemon Go 처럼 플래닛 모으는 것. 근데 플래닛이 둥둥 떠다님. 그리고 가끔씩 (10분에 한 번씩?) 옥토켓이 똑똑하고 문을 두드림. 열면 선물줌 (스페셜 플래닛).
+Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠다님). Once in a while (maybe 10 minutes or 30 minutes), Octocat visits you, and it will give you some presents (such as a planet with Special Edition).
 - Requirements: Unity, Illustrator
 - Benefits: It fits for Octocat Competition. VA sounds cool. 
 - Drawbacks: I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
 
-5. VR: Face + Planet
+5. VR: Face + Planet / Planet Face
 recognize the face and change it to one of planets
 - Requirements: Unity
 - Benefits: VA sounds cool. Samll enough to use VA for the first-time. Sounds fun. Use Google Cloud.
