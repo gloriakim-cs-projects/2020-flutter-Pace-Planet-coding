@@ -56,6 +56,13 @@ recognize the face and change it to one of planets
 - **Benefits:** VA sounds cool. Samll enough to use VA for the first-time. Sounds fun. Use Google Cloud.
 - **Drawbacks:** Similar apps already available
 
+**9. AR: Seed the Planet**
+
+Place the seed and it will grow a tree that will bear fruits (planets). You can pick the planets and place them around you.
+- **Requirements:** Unity
+- **Benefits:** Sounds fun! AR sounds cool. Maybe manageable to finish on time. 
+- **Drawback:** I have no idea where to start. May not be a safe project to finish.
+
 
 ### Trashed Ideas
 
