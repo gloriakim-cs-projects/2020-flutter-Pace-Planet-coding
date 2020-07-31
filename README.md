@@ -113,3 +113,6 @@ Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠
 (https://www.youtube.com/watch?v=jzUpGaE7d0M&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=25)
 
 Overall, it seems feasible to use Android Studio to build AR. It's probably easier because I am familiar with Android Studio. However, for the sake of learning something new, I will now search for building AR using **Unity**!
+
+- [AR using Unity](https://www.youtube.com/watch?v=LTdvxTp9e-4)
+I found that the above video's content was used in the previous-awarded app [AR Birthday Fiesta](https://devpost.com/software/augmented-reality-birthday-fiesta). Maybe I should shoot for something else other than AR?
