@@ -102,6 +102,7 @@ Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠
 
 ## STEP 2. Start Tasting Each Plan
 
+***Plan 2***
 - free 3D Models: https://poly.google.com/
 - [AR using Android Studio - Model Animation](https://www.youtube.com/watch?v=6JjOeNR7xtU&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=17)
 - [AR using Android Studio - Animation on Face, like Snapchat Filters](https://www.youtube.com/watch?v=w8rakQD4jf4&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=19)
@@ -115,4 +116,11 @@ Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠
 Overall, it seems feasible to use Android Studio to build AR. It's probably easier because I am familiar with Android Studio. However, for the sake of learning something new, I will now search for building AR using **Unity**!
 
 - [AR using Unity](https://www.youtube.com/watch?v=LTdvxTp9e-4)
-I found that the above video's content was used in the previous-awarded app [AR Birthday Fiesta](https://devpost.com/software/augmented-reality-birthday-fiesta). Maybe I should shoot for something else other than AR?
+I found that the above video's content was used in the previous-awarded app [AR Birthday Fiesta](https://devpost.com/software/augmented-reality-birthday-fiesta). Maybe I should shoot for something else other than AR.
+
+***Plan 1***
+- Pomodoro Timer & To Do List / Focus-Timer
+- [공시기](https://play.google.com/store/apps/details?id=com.shoong.time.gongsik&hl=en_US)
+- [Forest: Stay focused][https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_US]
+- [Study Bunny](https://play.google.com/store/apps/details?id=com.superbyte.studybunny&hl=en_US)
+- [Habitica: Gamify Your Tasks](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
