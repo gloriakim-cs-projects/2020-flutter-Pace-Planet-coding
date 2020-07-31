@@ -21,6 +21,11 @@ https://tothemoonandhack.devpost.com/
 - **Google Cloud:** can do ML calculations
 - **Octocat Competition**
 
+**Example Space Apps**
+
+- Walkr https://play.google.com/store/apps/details?id=com.fourdesire.spacewalk&hl=en_US
+
+
 **1. TRACKING APP: Pace Planet: Study Planner for Space Travellers 행성의 속도를 재다: 스페이스를 여행하는 자들의 모임 (ex) 열품타**
 
 The app allows users to track their studying hours. 
@@ -34,12 +39,15 @@ The app allows users to track their studying hours.
 - **Benefits:** I already know how to build most features. Can shoot for some challenges (UiPath)
 - **Drawbacks:** There is no much challenges.
 
-**4. GAME: Planet Collector / Planet Go**
+**8. Mine Space (like myspace) + Idea #1**
 
-Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠다님). Once in a while (maybe 10 minutes or 30 minutes), Octocat visits you, and it will give you some presents (such as a planet with Special Edition).
-- **Requirements:** Unity, Illustrator
-- **Benefits:** It fits for Octocat Competition. VA sounds cool. 
-- **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
+When you study, you can Visit the planet to dig the planet to earn points. (when you stay in the same space, you start digging.)
+- **Requirements:** ??
+- **Benefits**: Sounds fun!
+- **Drawback**: As for now, this should be an optional choice due to limited time. 
+- **Example**: https://play.google.com/store/apps/details?id=com.companyname.Space_Program
+
+***BACKUP! If I am out of time, proceed with this plan.***
 
 **5. VR: Face + Planet / Planet Face**
 
@@ -48,14 +56,17 @@ recognize the face and change it to one of planets
 - **Benefits:** VA sounds cool. Samll enough to use VA for the first-time. Sounds fun. Use Google Cloud.
 - **Drawbacks:** Similar apps already available
 
+
 ### Trashed Ideas
 
+**WHY?** Not fun
 **3. VR: virtual reality app with space + find octocat**
 
 - **Requirements:** Unity, Illustrator
 - **Benefits:** It fits for Octocat Competition. VA sounds cool. 
 - **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
 
+**WHY?** Not fun 
 **2. TRACKING APP: Bible + Planet**
 
 The app asks the users to do one action based on the quote. Allow the users to check, and the planet grows.
@@ -63,9 +74,26 @@ The app asks the users to do one action based on the quote. Allow the users to c
 - **Benefits:** I already know how to build most features.
 - **Drawbacks:** I need Illustrator to draw the growing lighthouse. Sounds no fun. 
 
+**WHY?** COVID-19
 **6. Geo-Planet**
 
 Find a hint to search for a new planet!
 - **Requirements:** Android Studio
 - **Benefits:** I know how to use Android Studio, and it sounds fun!
 - **Drawbacks:** Due to COVID-19, people should not be encouraged to go outside. So, this project should be accurate enough to search inside of a small house/apartment. However, it is pretty difficult to do it. 
+
+**WHY?** No uniqueness
+**7. VR: Starry Night
+
+See stars and planets inside of your house!
+- **Requirements:** Unity
+- **Benefits:** VA sounds cool. helps people to stay home (help preventing COVID-19)
+- **Drawbacks:** Similar apps already available. https://play.google.com/store/apps/details?id=us.kvasha.startracker&hl=en_US
+
+**WHY?** Probably out of time
+**4. GAME: Planet Collector / Planet Go**
+
+Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠다님). Once in a while (maybe 10 minutes or 30 minutes), Octocat visits you, and it will give you some presents (such as a planet with Special Edition).
+- **Requirements:** Unity, Illustrator
+- **Benefits:** It fits for Octocat Competition. VA sounds cool. 
+- **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
