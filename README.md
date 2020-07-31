@@ -22,6 +22,7 @@ https://tothemoonandhack.devpost.com/
 - **Octocat Competition**
 
 **1. TRACKING APP: Pace Planet: Study Planner for Space Travellers 행성의 속도를 재다: 스페이스를 여행하는 자들의 모임 (ex) 열품타**
+
 The app allows users to track their studying hours. 
 - **Option 1:** Space grows if users study.
 - **Option 2:** Obtain new planet if users reach a certain hour of studying
@@ -34,12 +35,14 @@ The app allows users to track their studying hours.
 - **Drawbacks:** There is no much challenges.
 
 **4. GAME: Planet Collector / Planet Go**
+
 Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠다님). Once in a while (maybe 10 minutes or 30 minutes), Octocat visits you, and it will give you some presents (such as a planet with Special Edition).
 - **Requirements:** Unity, Illustrator
 - **Benefits:** It fits for Octocat Competition. VA sounds cool. 
 - **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
 
 **5. VR: Face + Planet / Planet Face**
+
 recognize the face and change it to one of planets
 - **Requirements:** Unity
 - **Benefits:** VA sounds cool. Samll enough to use VA for the first-time. Sounds fun. Use Google Cloud.
@@ -48,17 +51,20 @@ recognize the face and change it to one of planets
 ### Trashed Ideas
 
 **3. VR: virtual reality app with space + find octocat**
+
 - **Requirements:** Unity, Illustrator
 - **Benefits:** It fits for Octocat Competition. VA sounds cool. 
 - **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
 
 **2. TRACKING APP: Bible + Planet**
+
 The app asks the users to do one action based on the quote. Allow the users to check, and the planet grows.
 - **Requirements:** Android Studio
 - **Benefits:** I already know how to build most features.
 - **Drawbacks:** I need Illustrator to draw the growing lighthouse. Sounds no fun. 
 
 **6. Geo-Planet**
+
 Find a hint to search for a new planet!
 - **Requirements:** Android Studio
 - **Benefits:** I know how to use Android Studio, and it sounds fun!
