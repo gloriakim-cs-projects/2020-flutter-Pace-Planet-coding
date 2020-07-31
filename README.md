@@ -45,7 +45,7 @@ recognize the face and change it to one of planets
 - **Benefits:** VA sounds cool. Samll enough to use VA for the first-time. Sounds fun. Use Google Cloud.
 - **Drawbacks:** Similar apps already available
 
-##Trashed Ideas
+### Trashed Ideas
 
 **3. VR: virtual reality app with space + find octocat**
 - **Requirements:** Unity, Illustrator
