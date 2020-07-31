@@ -135,10 +135,12 @@ Space-Themed Tracker App
 - [Cute Spring Pack](https://www.flaticon.com/packs/spring-31)
 - [Cute Winter Pack](https://www.flaticon.com/packs/winter-6)
 - [Other Cute Packs](https://www.flaticon.com/authors/kawaii/flat/4)
+
 ***God Icons***
 - [Jesus](https://www.flaticon.com/free-icon/jesus_2545538)
 - [Smiling Jesus](https://www.flaticon.com/free-icon/jesus_2230291?term=god&page=1&position=52)
 - [Smiling Jesus 2](https://www.flaticon.com/free-icon/jesus_1197953)
+
 ***Octocat***
 - [Octocat PNG](https://www.google.com/search?q=octocat+png&pws=0&gl=us&sxsrf=ALeKk03uH3gDyE7kqGpkBCpZXtjrELmIWA:1596214139094&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOwfuF-ffqAhUBM6wKHQxnDi0Q_AUoAXoECAwQAw&biw=1920&bih=938&dpr=2#imgrc=fLKD7QptF_vjyM)
 - [Wizard hat](https://www.flaticon.com/free-icon/hat_867833)
