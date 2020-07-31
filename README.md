@@ -25,6 +25,7 @@ https://tothemoonandhack.devpost.com/
 
 - Walkr https://play.google.com/store/apps/details?id=com.fourdesire.spacewalk&hl=en_US
 
+**PLAN1: MANAGEABLE + SOME CHALLENGES **
 
 **1. TRACKING APP: Pace Planet: Study Planner for Space Travellers 행성의 속도를 재다: 스페이스를 여행하는 자들의 모임 (ex) 열품타**
 
@@ -47,22 +48,21 @@ When you study, you can Visit the planet to dig the planet to earn points. (when
 - **Drawback**: As for now, this should be an optional choice due to limited time. 
 - **Example**: https://play.google.com/store/apps/details?id=com.companyname.Space_Program
 
-***BACKUP! If I am out of time, proceed with this plan.***
+***PLAN 2: MOST FUN + MANY CHALLENGES + AR***
 
-**5. VR: Face + Planet / Planet Face**
+**5. AR: Face + Planet / Planet Face**
 
 recognize the face and change it to one of planets
 - **Requirements:** Unity
-- **Benefits:** VA sounds cool. Samll enough to use VA for the first-time. Sounds fun. Use Google Cloud.
+- **Benefits:** AR sounds cool. Samll enough to use AR for the first-time. Sounds fun. Use Google Cloud.
 - **Drawbacks:** Similar apps already available
 
 **9. AR: Seed the Planet**
 
-Place the seed and it will grow a tree that will bear fruits (planets). You can pick the planets and place them around you.
+Place the seed and it will grow a tree that will bear fruits (planets). You can pick the planets and place them around you. How to seed the planet? You scan your FACE, and you get a seed!
 - **Requirements:** Unity
 - **Benefits:** Sounds fun! AR sounds cool. Maybe manageable to finish on time. 
 - **Drawback:** I have no idea where to start. May not be a safe project to finish.
-
 
 ### Trashed Ideas
 
