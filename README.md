@@ -29,8 +29,9 @@ The app allows users to track their studying hours.
 - **Option 2:** Obtain new planet if users reach a certain hour of studying
 - **Option 3:** Give a special planet, Octocat Planet that looks like Octocat 
 - **Option 4:** If the person stays in the same seat (track the space), then rewards with new special planets. (Because you don't really move around when you study.) BUT just in case someone can move around, make sure users to set this setting. Or, simply let users know this is an extra feature to collect a special planet.
-- **Option 5:** Send a notification to encourage studying? (Maybe giving too much pressures?)
+- **Option 5:** Send a notification to encourage studying? (Maybe giving too much pressures?) ("God is waiting for you to meet today. Right around the corner." with a symbol of God sitting in a chair with "Hmm...")
 - **Option 6:** To advertise COVID-19, allow the planets to wear masks. (customize planets?)
+- **Option 7:** Travel the space to meet God. (God comes and says "You did a great job!")
 - **Requirements:** Android Studio
 - **Benefits:** I already know how to build most features. Can shoot for some challenges (UiPath)
 - **Drawbacks:** There is no much challenges.
