@@ -16,10 +16,6 @@ This repository is to write the progress of creating a project for MLH's To The 
 - **Google Cloud:** can do ML calculations
 - **Octocat Competition**
 
-**Example Space Apps**
-
-- Walkr https://play.google.com/store/apps/details?id=com.fourdesire.spacewalk&hl=en_US
-
 ***PLAN1: MANAGEABLE + SOME CHALLENGES***
 
 **1. TRACKING APP: Pace Planet: Study Planner for Space Travellers 행성의 속도를 재다: 스페이스를 여행하는 자들의 모임 (ex) 열품타**
@@ -119,9 +115,33 @@ Overall, it seems feasible to use Android Studio to build AR. It's probably easi
 - [AR using Unity](https://www.youtube.com/watch?v=LTdvxTp9e-4)
 I found that the above video's content was used in the previous-awarded app [AR Birthday Fiesta](https://devpost.com/software/augmented-reality-birthday-fiesta). Maybe I should shoot for something else other than AR.
 
-***Plan 1***
-- Pomodoro Timer & To Do List / Focus-Timer
+***Plan 1 (CHOSEN)***
+
+Pomodoro Timer & To Do List / Focus-Timer
 - [공시기](https://play.google.com/store/apps/details?id=com.shoong.time.gongsik&hl=en_US)
 - [Forest: Stay focused][https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_US]
 - [Study Bunny](https://play.google.com/store/apps/details?id=com.superbyte.studybunny&hl=en_US)
 - [Habitica: Gamify Your Tasks](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
+
+Space-Themed Tracker App
+- [Walkr](https://play.google.com/store/apps/details?id=com.fourdesire.spacewalk&hl=en_US)
+
+## STEP 3: Start Designin the App
+
+***Background Icons***
+- [Planets](https://www.flaticon.com/packs/space-233)
+- [Cute Planet](https://www.flaticon.com/packs/zodiac-9)
+- [Cute Autumn Pack](https://www.flaticon.com/packs/autumn-15)
+- [Cute Spring Pack](https://www.flaticon.com/packs/spring-31)
+- [Cute Winter Pack](https://www.flaticon.com/packs/winter-6)
+- [Other Cute Packs](https://www.flaticon.com/authors/kawaii/flat/4)
+***God Icons***
+- [Jesus](https://www.flaticon.com/free-icon/jesus_2545538)
+- [Smiling Jesus](https://www.flaticon.com/free-icon/jesus_2230291?term=god&page=1&position=52)
+- [Smiling Jesus 2](https://www.flaticon.com/free-icon/jesus_1197953)
+***Octocat***
+- [Octocat PNG](https://www.google.com/search?q=octocat+png&pws=0&gl=us&sxsrf=ALeKk03uH3gDyE7kqGpkBCpZXtjrELmIWA:1596214139094&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOwfuF-ffqAhUBM6wKHQxnDi0Q_AUoAXoECAwQAw&biw=1920&bih=938&dpr=2#imgrc=fLKD7QptF_vjyM)
+- [Wizard hat](https://www.flaticon.com/free-icon/hat_867833)
+- [Winter hat](https://www.flaticon.com/free-icon/hat_2946133?term=hat&page=1&position=67)
+- [Cook hat](https://www.flaticon.com/free-icon/chef-hat_2972043?term=hat&page=1&position=57)
+- [Graduation hat](https://www.flaticon.com/free-icon/graduation-hat_999663?term=hat&page=1&position=85)
