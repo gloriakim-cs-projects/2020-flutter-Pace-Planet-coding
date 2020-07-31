@@ -136,6 +136,9 @@ Space-Themed Tracker App
 - [Cute Winter Pack](https://www.flaticon.com/packs/winter-6)
 - [Other Cute Packs](https://www.flaticon.com/authors/kawaii/flat/4)
 
+**Selection Icon**
+- [Rocket Book](https://www.flaticon.com/free-icon/rocket_2490289)
+
 ***God Icons***
 - [Jesus](https://www.flaticon.com/free-icon/jesus_2545538)
 - [Smiling Jesus](https://www.flaticon.com/free-icon/jesus_2230291?term=god&page=1&position=52)
