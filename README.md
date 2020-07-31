@@ -1,19 +1,14 @@
 # MLH_to_the_moon_and_hack
 This repository is to write the progress of creating a project for MLH's To The Moon and Hack!
 
-## First Starter Kit
-https://hack.mlh.io/learn/
+## STEP 0. Useful Resources
 
-## GitHub Kit
-https://education.github.com/students?utm_source=mlh
+- **First Starter Kit** https://hack.mlh.io/learn/
+- **GitHub Kit** https://education.github.com/students?utm_source=mlh
+- **Discord** https://discord.com/channels/688852585071116289/688855009634680890
+- **Submission Link** https://tothemoonandhack.devpost.com/
 
-## Discord
-https://discord.com/channels/688852585071116289/688855009634680890
-
-## Submission Link
-https://tothemoonandhack.devpost.com/
-
-## Ideas for Space-Related Stuffs
+## STEP 1. Ideas for Space-Related Stuffs
 
 **Remember:**
 - **Radar.io:** location-aware projects (ex) a delivery tracker. campus building locator. Find my Friends
@@ -104,3 +99,17 @@ Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠
 - **Requirements:** Unity, Illustrator
 - **Benefits:** It fits for Octocat Competition. VA sounds cool. 
 - **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
+
+## STEP 2. Start Tasting Each Plan
+
+- free 3D Models: https://poly.google.com/
+- [AR using Android Studio - Model Animation](https://www.youtube.com/watch?v=6JjOeNR7xtU&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=17)
+- [AR using Android Studio - Animation on Face, like Snapchat Filters](https://www.youtube.com/watch?v=w8rakQD4jf4&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=19)
+- [AR using Android Studio - Simple AR Game (Popping Ballons)](https://www.youtube.com/watch?v=-sy0IKJYG3o&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=22)
+- [AR using Android Studio - Image to Video](https://www.youtube.com/watch?v=_oSF_gjOEtg&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=23)
+- [AR using Android Studio - How to Run AR on Android Studio]
+(https://www.youtube.com/watch?v=KQuX4a-tIuw&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=24)
+- [AR using Android Studio - AR Image Database (Recognize what the image is) at Runtime]
+(https://www.youtube.com/watch?v=jzUpGaE7d0M&list=PLsOU6EOcj51cEDYpCLK_bzo4qtjOwDWfW&index=25)
+
+Overall, it seems feasible to use Android Studio to build AR. It's probably easier because I am familiar with Android Studio. However, for the sake of learning something new, I will now search for building AR using **Unity**!
