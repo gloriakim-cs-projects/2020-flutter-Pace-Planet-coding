@@ -123,22 +123,47 @@ Space-Themed Tracker App
 
 ## STEP 3: Start Designin the App
 
-**Background Icons**
-- [Planets](https://www.flaticon.com/packs/space-233)
-- [Cute Planet](https://www.flaticon.com/packs/zodiac-9)
-- [Cute Autumn Pack](https://www.flaticon.com/packs/autumn-15)
-- [Cute Spring Pack](https://www.flaticon.com/packs/spring-31)
-- [Cute Winter Pack](https://www.flaticon.com/packs/winter-6)
-- [Other Cute Packs](https://www.flaticon.com/authors/kawaii/flat/4)
+### Design Process
 
-**Selection Icon**
-- [Rocket Book](https://www.flaticon.com/free-icon/rocket_2490289)
-- [Galaxy](https://www.flaticon.com/free-icon/galaxy_3061778?term=galaxy&page=1&position=17)
+![image](https://user-images.githubusercontent.com/68700599/89094544-93646800-d38a-11ea-8fa6-00e66322210b.png)
 
-***God Icons***
-- [Jesus](https://www.flaticon.com/free-icon/jesus_2545538)
-- [Smiling Jesus](https://www.flaticon.com/free-icon/jesus_2230291?term=god&page=1&position=52)
-- [Smiling Jesus 2](https://www.flaticon.com/free-icon/jesus_1197953)
+### Final Design
+
+![image](https://user-images.githubusercontent.com/68700599/89094622-754b3780-d38b-11ea-9b76-4123d1726c94.png)
+
+### List of Creditors
+
+**Background Photo**
+- [Photo](https://unsplash.com/photos/E0AHdsENmDg)
+
+**Planets**
+
+- [Planet](https://www.flaticon.com/free-icon/mars_2909917) **NEED TO DOWNLOAD**
+- [Planet2](https://www.flaticon.com/free-icon/pluto_2909930) **NEED TO DOWNLOAD**
+- [Planet3](https://www.flaticon.com/free-icon/moon_124556) **NEED TO DOWNLOAD**
+- [Planet4](https://www.flaticon.com/free-icon/mercury_2909920)
+- [Planet5](https://www.flaticon.com/free-icon/jupiter_2909901) 
+- [Planet6](https://www.flaticon.com/free-icon/venus_2909962) **NEED TO DOWNLOAD**
+- [Planet7](https://www.flaticon.com/free-icon/uranus_2909956) **NEED TO DOWNLOAD**
+- [Planet8](https://www.flaticon.com/free-icon/sun_2909950) **NEED TO DOWNLOAD** (Leader)
+- [Planet9](https://www.flaticon.com/free-icon/saturn_2909937) **NEED TO DOWNLOAD**
+- [Planet10](https://www.flaticon.com/free-icon/earth_2909865) **NEED TO DOWNLOAD**
+- [Cute Planet](https://www.flaticon.com/free-icon/jupiter_3131794)
+
+**Others**
+- [Medals](https://www.flaticon.com/free-icon/medal_2583319)
+- [Comet](https://www.flaticon.com/free-icon/comet_2909923?term=comet&page=1&position=3)
+- [Comet2](https://www.flaticon.com/free-icon/comet_1945741) **NEED TO DOWNLOAD**
+- [Meteor](https://www.flaticon.com/free-icon/asteroid_1714756) **NEED TO DOWNLOAD**
+- [Meteor2](https://www.flaticon.com/free-icon/meteor_3026361)
+- [Meteor3](https://www.flaticon.com/free-icon/meteor_231130) **NEED TO DOWNLOAD**
+- [Meteor4](https://www.flaticon.com/free-icon/comet_2240686) **NEED TO DOWNLOAD**
+- [Shooting Star](https://www.flaticon.com/free-icon/shooting-stars_1945846) **NEED TO DOWNLOAD**
+- [Galaxy](https://www.flaticon.com/free-icon/galaxy_1945801) **NEED TO DOWNLOAD**
+- [Orbit](https://www.flaticon.com/free-icon/orbit_1945835) **NEED TO DOWNLOAD**
+- [Stars](https://www.flaticon.com/free-icon/stars_2909947) **NEED TO DOWNLOAD**
+- [Rocket](https://www.flaticon.com/free-icon/space-shuttle_2909944) **NEED TO DOWNLOAD**
+- [Rocket2](https://www.flaticon.com/free-icon/launch_2909934)
 
 ***Octocat***
 - [Octocat PNG](https://www.google.com/search?q=octocat+png&pws=0&gl=us&sxsrf=ALeKk03uH3gDyE7kqGpkBCpZXtjrELmIWA:1596214139094&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOwfuF-ffqAhUBM6wKHQxnDi0Q_AUoAXoECAwQAw&biw=1920&bih=938&dpr=2#imgrc=fLKD7QptF_vjyM)
@@ -146,19 +171,3 @@ Space-Themed Tracker App
 - [Winter hat](https://www.flaticon.com/free-icon/hat_2946133?term=hat&page=1&position=67)
 - [Cook hat](https://www.flaticon.com/free-icon/chef-hat_2972043?term=hat&page=1&position=57)
 - [Graduation hat](https://www.flaticon.com/free-icon/graduation-hat_999663?term=hat&page=1&position=85)
-
-**Star**
-- [Star](https://www.flaticon.com/free-icon/star_786432?term=star&page=1&position=90)
-- [Star2](https://www.flaticon.com/free-icon/star_2107957?term=star&page=1&position=20)
-
-**Medals**
-- [Medal](https://www.flaticon.com/free-icon/medal_2583319)
-
-
-**Design Process**
-
-![image](https://user-images.githubusercontent.com/68700599/89094544-93646800-d38a-11ea-8fa6-00e66322210b.png)
-
-**Final Design**
-
-![image](https://user-images.githubusercontent.com/68700599/89094622-754b3780-d38b-11ea-9b76-4123d1726c94.png)
