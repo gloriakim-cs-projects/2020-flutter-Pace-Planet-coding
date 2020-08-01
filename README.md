@@ -151,3 +151,10 @@ Space-Themed Tracker App
 - [Winter hat](https://www.flaticon.com/free-icon/hat_2946133?term=hat&page=1&position=67)
 - [Cook hat](https://www.flaticon.com/free-icon/chef-hat_2972043?term=hat&page=1&position=57)
 - [Graduation hat](https://www.flaticon.com/free-icon/graduation-hat_999663?term=hat&page=1&position=85)
+
+**Star**
+- [Star](https://www.flaticon.com/free-icon/star_786432?term=star&page=1&position=90)
+- [Star2](https://www.flaticon.com/free-icon/star_2107957?term=star&page=1&position=20)
+
+**Medals**
+- [Medal](https://www.flaticon.com/free-icon/medal_2583319)
