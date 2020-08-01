@@ -161,4 +161,4 @@ Space-Themed Tracker App
 
 **Final Design**
 
-![image](https://user-images.githubusercontent.com/68700599/89094571-d8889a00-d38a-11ea-89ae-3dfe15316c3c.png)
+![image](https://user-images.githubusercontent.com/68700599/89094622-754b3780-d38b-11ea-9b76-4123d1726c94.png)
