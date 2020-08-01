@@ -138,6 +138,7 @@ Space-Themed Tracker App
 
 **Selection Icon**
 - [Rocket Book](https://www.flaticon.com/free-icon/rocket_2490289)
+- [Galaxy](https://www.flaticon.com/free-icon/galaxy_3061778?term=galaxy&page=1&position=17)
 
 ***God Icons***
 - [Jesus](https://www.flaticon.com/free-icon/jesus_2545538)
