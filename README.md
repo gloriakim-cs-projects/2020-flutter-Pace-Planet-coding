@@ -164,6 +164,7 @@ Space-Themed Tracker App
 - [Stars](https://www.flaticon.com/free-icon/stars_2909947) **NEED TO DOWNLOAD**
 - [Rocket](https://www.flaticon.com/free-icon/space-shuttle_2909944) **NEED TO DOWNLOAD**
 - [Rocket2](https://www.flaticon.com/free-icon/launch_2909934)
+- [Asteroid](https://www.flaticon.com/free-icon/asteroid_2909828) **NEED TO DOWNLOAD**
 
 ***Octocat***
 - [Octocat PNG](https://www.google.com/search?q=octocat+png&pws=0&gl=us&sxsrf=ALeKk03uH3gDyE7kqGpkBCpZXtjrELmIWA:1596214139094&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjOwfuF-ffqAhUBM6wKHQxnDi0Q_AUoAXoECAwQAw&biw=1920&bih=938&dpr=2#imgrc=fLKD7QptF_vjyM)
