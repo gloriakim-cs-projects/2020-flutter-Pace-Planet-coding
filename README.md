@@ -8,7 +8,7 @@ This repository is to write the progress of creating a project for MLH's To The 
 - **Discord** https://discord.com/channels/688852585071116289/688855009634680890
 - **Submission Link** https://tothemoonandhack.devpost.com/
 
-## STEP 1. Ideas for Space-Related Stuffs
+## STEP 1. Think Ideas for Space-Related Stuffs
 
 **Remember:**
 - **Radar.io:** location-aware projects (ex) a delivery tracker. campus building locator. Find my Friends
@@ -58,46 +58,41 @@ Place the seed and it will grow a tree that will bear fruits (planets). You can 
 
 ### Trashed Ideas
 
-**WHY?** Not fun
-**3. VR: virtual reality app with space + find octocat**
+**3. VR: virtual reality app with space + find octocat** **WHY?** Not fun
 
 - **Requirements:** Unity, Illustrator
 - **Benefits:** It fits for Octocat Competition. VA sounds cool. 
 - **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
 
-**WHY?** Not fun 
-**2. TRACKING APP: Bible + Planet**
+**2. TRACKING APP: Bible + Planet** **WHY?** Not fun 
 
 The app asks the users to do one action based on the quote. Allow the users to check, and the planet grows.
 - **Requirements:** Android Studio
 - **Benefits:** I already know how to build most features.
 - **Drawbacks:** I need Illustrator to draw the growing lighthouse. Sounds no fun. 
 
-**WHY?** COVID-19
-**6. Geo-Planet**
+**6. Geo-Planet** **WHY?** COVID-19
 
 Find a hint to search for a new planet!
 - **Requirements:** Android Studio
 - **Benefits:** I know how to use Android Studio, and it sounds fun!
 - **Drawbacks:** Due to COVID-19, people should not be encouraged to go outside. So, this project should be accurate enough to search inside of a small house/apartment. However, it is pretty difficult to do it. 
 
-**WHY?** No uniqueness
-**7. VR: Starry Night
+**7. VR: Starry Night** **WHY?** No uniqueness
 
 See stars and planets inside of your house!
 - **Requirements:** Unity
 - **Benefits:** VA sounds cool. helps people to stay home (help preventing COVID-19)
 - **Drawbacks:** Similar apps already available. https://play.google.com/store/apps/details?id=us.kvasha.startracker&hl=en_US
 
-**WHY?** Probably out of time
-**4. GAME: Planet Collector / Planet Go**
+**4. GAME: Planet Collector / Planet Go** **WHY?** Probably out of time
 
 Collect planets, just like Pokemon Go. Float the planet (플래닛이 둥둥 떠다님). Once in a while (maybe 10 minutes or 30 minutes), Octocat visits you, and it will give you some presents (such as a planet with Special Edition).
 - **Requirements:** Unity, Illustrator
 - **Benefits:** It fits for Octocat Competition. VA sounds cool. 
 - **Drawbacks:** I have never built a VR app, and I may not finish it on time. I probably need to create a bunch of images using Illustrator, which I need to purchase. The description does not sound fun.
 
-## STEP 2. Start Tasting Each Plan
+## STEP 2. Validate Each Plan
 
 ***Plan 2***
 - free 3D Models: https://poly.google.com/
@@ -128,7 +123,7 @@ Space-Themed Tracker App
 
 ## STEP 3: Start Designin the App
 
-***Background Icons***
+**Background Icons**
 - [Planets](https://www.flaticon.com/packs/space-233)
 - [Cute Planet](https://www.flaticon.com/packs/zodiac-9)
 - [Cute Autumn Pack](https://www.flaticon.com/packs/autumn-15)
@@ -158,3 +153,12 @@ Space-Themed Tracker App
 
 **Medals**
 - [Medal](https://www.flaticon.com/free-icon/medal_2583319)
+
+
+**Design Process**
+
+![image](https://user-images.githubusercontent.com/68700599/89094544-93646800-d38a-11ea-8fa6-00e66322210b.png)
+
+**Final Design**
+
+![image](https://user-images.githubusercontent.com/68700599/89094571-d8889a00-d38a-11ea-89ae-3dfe15316c3c.png)
