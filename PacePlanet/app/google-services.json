@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14669801348",
+    "firebase_url": "https://pace-planet.firebaseio.com",
+    "project_id": "pace-planet",
+    "storage_bucket": "pace-planet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14669801348:android:185fdfc726f4dd52165fd1",
+        "android_client_info": {
+          "package_name": "com.paceplanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14669801348-0fph8kht08p6rms3754h48vv886i1055.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdfVcu3BuEL_reNp9YpEQkjpecrbLI19w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14669801348-0fph8kht08p6rms3754h48vv886i1055.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
