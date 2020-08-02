@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pace Planet</string>
+    <string name="tab_text_1">Me</string>
+    <string name="tab_text_2">All</string>
+    <string name="tab_text_3">Team</string>
+    <string name="tab_text_4">AR</string>
+</resources>

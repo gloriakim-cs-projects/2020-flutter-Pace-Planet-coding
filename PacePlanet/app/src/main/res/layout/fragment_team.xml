@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentTeam"
+    android:theme="@style/FontStyle"
+    android:background="@color/colorPrimaryDark">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/galaxy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Galaxy"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            android:elevation="10dp"/>
+
+        <TextView
+            android:id="@+id/galaxy_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Find Your Team\nGrow Universe Together"
+            android:layout_below="@+id/galaxy"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:elevation="10dp"/>
+
+        <ImageView
+            android:id="@+id/ic_big_bang"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/ic_meteor"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="-60dp"
+            android:layout_marginLeft="-30dp" />
+
+        <ImageView
+            android:id="@+id/ic_meteor"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/ic_big_bang"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="-30dp"
+            android:layout_marginTop="60dp"/>
+
+        <EditText
+            android:id="@+id/search_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/galaxy_description"
+            android:layout_margin="20dp"
+            android:background="@drawable/customized_search_bar"
+            android:ems="10"
+            android:drawableLeft="@drawable/ic_search_grey"
+            android:hint=" Search for your team"
+            android:elevation="10dp"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/search_bar"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/white_background_round">
+
+            <ListView
+                android:id="@+id/team_list_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"/>
+
+        </ScrollView>
+
+
+
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floating_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:layout_margin="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_add_white"
+            android:backgroundTint="@color/colorPrimary"/>
+
+<!--        <ImageView-->
+<!--            android:id="@+id/ic_shooting_star"-->
+<!--            android:layout_width="250dp"-->
+<!--            android:layout_height="250dp"-->
+<!--            android:background="@drawable/ic_shooting_star"-->
+<!--            android:elevation="6dp"-->
+<!--            android:layout_alignParentBottom="true"-->
+<!--            android:layout_alignParentRight="true"/>-->
+
+<!--        <ImageView-->
+<!--            android:layout_width="250dp"-->
+<!--            android:layout_height="250dp"-->
+<!--            android:background="@drawable/ic_study"-->
+<!--            android:layout_alignParentBottom="true"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_marginBottom="100dp"-->
+<!--            android:elevation="11dp"/>-->
+
+    </RelativeLayout>
+
+</FrameLayout>

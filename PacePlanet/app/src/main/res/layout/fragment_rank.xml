@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentRank"
+    android:theme="@style/FontStyle"
+    android:background="@color/colorPrimaryDark">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/supernova"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Supernova"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/colorWhite"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            android:elevation="10dp"/>
+
+        <TextView
+            android:id="@+id/supernova_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Most Studying Hours"
+            android:layout_below="@+id/supernova"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:elevation="10dp"/>
+
+        <ImageView
+            android:id="@+id/ic_big_bang"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/ic_meteor"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="-60dp"
+            android:layout_marginLeft="-30dp" />
+
+        <ImageView
+            android:id="@+id/ic_meteor"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="@drawable/ic_big_bang"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="-30dp"
+            android:layout_marginTop="60dp"/>
+
+        <RelativeLayout
+            android:id="@+id/relative_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/supernova_description"
+            android:background="@drawable/white_background_round"
+            android:layout_margin="20dp"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/ic_medal1"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_toLeftOf="@+id/ic_medal2"
+                android:background="@drawable/ic_medal1"/>
+
+            <TextView
+                android:id="@+id/ic_medal1_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ic_medal1"
+                android:layout_alignRight="@+id/ic_medal1"
+                android:layout_alignLeft="@+id/ic_medal1"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:text="ID_1"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ic_medal1_id"
+                android:layout_alignRight="@+id/ic_medal1"
+                android:layout_alignLeft="@+id/ic_medal1"
+                android:gravity="center_horizontal"
+                android:text="10:44:20"/>
+
+            <ImageView
+                android:id="@+id/ic_medal2"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/ic_medal2"/>
+
+            <TextView
+                android:id="@+id/ic_medal2_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ic_medal2"
+                android:layout_alignRight="@+id/ic_medal2"
+                android:layout_alignLeft="@+id/ic_medal2"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:text="ID_2"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ic_medal2_id"
+                android:layout_alignRight="@+id/ic_medal2"
+                android:layout_alignLeft="@+id/ic_medal2"
+                android:gravity="center_horizontal"
+                android:text="10:44:20"/>
+
+            <ImageView
+                android:id="@+id/ic_medal3"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_toRightOf="@+id/ic_medal2"
+                android:background="@drawable/ic_medal3"/>
+
+            <TextView
+                android:id="@+id/ic_medal3_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ic_medal3"
+                android:layout_alignRight="@+id/ic_medal3"
+                android:layout_alignLeft="@+id/ic_medal3"
+                android:layout_marginTop="10dp"
+                android:gravity="center_horizontal"
+                android:text="ID_3"
+                android:textStyle="bold"
+                android:textColor="@color/colorPrimary"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ic_medal3_id"
+                android:layout_alignRight="@+id/ic_medal3"
+                android:layout_alignLeft="@+id/ic_medal3"
+                android:gravity="center_horizontal"
+                android:text="10:44:20"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/relative_layout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/relative_layout"
+            android:background="@drawable/white_background_round"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/my_rank"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/circle_dark"
+                android:text="23"
+                android:textSize="40dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/my_rank"
+                android:layout_alignTop="@+id/my_rank"
+                android:layout_alignBottom="@+id/my_rank"
+                android:gravity="center"
+                android:layout_marginLeft="20dp">
+
+                <TextView
+                    android:id="@+id/my_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ID_4"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    android:textColor="@color/colorPrimary"/>
+
+                <TextView
+                    android:id="@+id/my_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/my_id"
+                    android:text="09:22:15"
+                    android:textSize="20dp"
+                    android:textColor="@color/colorPrimary"/>
+
+            </RelativeLayout>
+
+
+
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/relative_layout2"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/white_background_round">
+
+            <ListView
+                android:id="@+id/team_list_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"/>
+
+        </ScrollView>
+
+
+
+        <!--        <ImageView-->
+        <!--            android:id="@+id/ic_shooting_star"-->
+        <!--            android:layout_width="250dp"-->
+        <!--            android:layout_height="250dp"-->
+        <!--            android:background="@drawable/ic_shooting_star"-->
+        <!--            android:elevation="6dp"-->
+        <!--            android:layout_alignParentBottom="true"-->
+        <!--            android:layout_alignParentRight="true"/>-->
+
+        <!--        <ImageView-->
+        <!--            android:layout_width="250dp"-->
+        <!--            android:layout_height="250dp"-->
+        <!--            android:background="@drawable/ic_study"-->
+        <!--            android:layout_alignParentBottom="true"-->
+        <!--            android:layout_centerHorizontal="true"-->
+        <!--            android:layout_marginBottom="100dp"-->
+        <!--            android:elevation="11dp"/>-->
+
+    </RelativeLayout>
+
+
+
+</FrameLayout>
