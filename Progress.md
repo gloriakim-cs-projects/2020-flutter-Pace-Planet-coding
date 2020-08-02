@@ -7,11 +7,13 @@
 **Need to Complete**
 
 1. Main
-- stopwatch
+- chronometer
 
 2. Universe
 3. Team
 4. AR
+5. Others
+- MAke sure to put the first page (Android MAnifest)
 
 **Need Help**
 
