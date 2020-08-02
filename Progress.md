@@ -6,6 +6,7 @@
 - chronometer
 2. Universe
 - Firebase connection
+- Firebase ID list + check for duplicate
 3. Team
 -
 4. AR (changed from rank)
