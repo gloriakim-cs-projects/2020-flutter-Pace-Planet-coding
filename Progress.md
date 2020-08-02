@@ -20,4 +20,5 @@
 - 
 
 # Contributing
-1. [Stopwatch](https://www.youtube.com/watch?v=RLnb4vVkftc)
+1. [Chronometer/Stopwatch](https://www.youtube.com/watch?v=RLnb4vVkftc)
+2. [Chronometer 00:00:00](https://stackoverflow.com/questions/4152569/how-to-change-format-of-chronometer)
