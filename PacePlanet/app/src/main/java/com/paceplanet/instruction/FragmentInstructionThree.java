@@ -15,7 +15,6 @@ import com.paceplanet.R;
 
 public class FragmentInstructionThree extends Fragment {
     private View view;
-    private Button btn_close;
 
     public static FragmentInstructionThree newInstance() {
         FragmentInstructionThree fragmentInstructionThree = new FragmentInstructionThree();
@@ -28,13 +27,6 @@ public class FragmentInstructionThree extends Fragment {
         // Inflate the layout for this fragment
         view = inflater.inflate(R.layout.fragment_instruction_three, container, false);
 
-//        btn_close = (Button) view.findViewById(R.id.btn_close);
-//        btn_close.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                startActivity(new Intent(getActivity(), MainActivity.class));
-//            }
-//        });
 
         return view;
     }

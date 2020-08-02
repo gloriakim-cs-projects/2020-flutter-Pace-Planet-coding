@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
         if (isFirstTime()) {
             // What you do when the Application is Opened First time Goes here
-//            startActivity(new Intent(this, InstructionActivity.class));
+            startActivity(new Intent(this, InstructionActivity.class));
         }
 
         //section navigator

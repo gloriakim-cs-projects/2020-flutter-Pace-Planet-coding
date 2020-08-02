@@ -5,4 +5,73 @@
     android:layout_height="match_parent"
     tools:context=".instruction.FragmentInstructionOne">
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:theme="@style/FontStyle"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="100dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:padding="30dp"
+        android:background="@drawable/dark_background_round">
+
+        <TextView
+            android:id="@+id/hello"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/id_edit_text"
+            android:layout_marginBottom="20dp"
+            android:lineSpacingMultiplier="1.2"
+            android:text="Please add\nyour ID to start."
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorWhite"
+            android:elevation="5dp"/>
+
+        <EditText
+            android:id="@+id/id_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_centerInParent="true"
+            android:padding="15dp"
+            android:background="@drawable/white_background_round"
+            android:elevation="5dp"/>
+
+        <ImageView
+            android:layout_width="240dp"
+            android:layout_height="240dp"
+            android:background="@drawable/ic_planet_1"
+            android:layout_alignParentBottom="true"
+            android:alpha=".6"/>
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:background="@drawable/ic_shooting_star"
+            android:layout_alignParentRight="true"
+            android:alpha=".6"/>
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/id_edit_text"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/white_background_round"
+            android:padding="15dp"
+            android:text="Submit"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:elevation="5dp"/>
+
+    </RelativeLayout>
+
 </FrameLayout>
