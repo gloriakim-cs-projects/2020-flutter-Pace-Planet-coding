@@ -12,39 +12,28 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <TextView
-            android:id="@+id/time"
+        <Chronometer
+            android:id="@+id/chronometer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="06:14:09"
             android:gravity="center"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="15dp"
             android:textColor="@color/colorWhite"
             android:textSize="50sp"
             android:textStyle="bold"
-            android:elevation="10dp"/>
+            android:elevation="10dp"
+            android:format="00:00:00"/>
 
-        <ImageView
-            android:id="@+id/ic_pause"
+        <ImageButton
+            android:id="@+id/ic_play_pause"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/time"
-            android:layout_centerHorizontal="true"
-            android:background="@drawable/ic_pause"
-            android:elevation="11dp"
-            android:visibility="invisible"/>
-
-        <ImageView
-            android:id="@+id/ic_play"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/time"
+            android:layout_below="@+id/chronometer"
             android:layout_marginTop="30dp"
             android:layout_centerHorizontal="true"
             android:background="@drawable/ic_play"
-            android:elevation="20dp"
-            android:visibility="visible"/>
+            android:elevation="20dp"/>
 
         <ImageView
             android:id="@+id/ic_main_planet"
