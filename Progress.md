@@ -19,7 +19,7 @@
 1. Main
 2. Universe
 - Firebase implementation
-- change color/size based on start date and studying hours
+- change color/size based on studying hours
 3. Team
 4. AR (changed from rank)
 5. Others
