@@ -18,7 +18,7 @@ This repository is to write the progress of creating a project for MLH's To The 
 
 ***PLAN1: MANAGEABLE + SOME CHALLENGES***
 
-**1. TRACKING APP: Pace Planet: Study Planner for Space Travellers 행성의 속도를 재다: 스페이스를 여행하는 자들의 모임 (ex) 열품타**
+**1. TRACKING APP: Pace Planet: Study Planner for Space Travellers 
 
 The app allows users to track their studying hours. 
 - **Option 1:** Space grows if users study.
