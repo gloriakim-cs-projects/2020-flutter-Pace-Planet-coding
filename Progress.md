@@ -23,6 +23,7 @@
 4. AR (changed from rank)
 5. Others
 - MAke sure to put the first page (Android MAnifest)
+- Need to add instruction fragment two and three stuffs
 
 **Need Help**
 
