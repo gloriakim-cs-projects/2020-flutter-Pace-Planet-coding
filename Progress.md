@@ -172,3 +172,10 @@ Space-Themed Tracker App
 - [Winter hat](https://www.flaticon.com/free-icon/hat_2946133?term=hat&page=1&position=67)
 - [Cook hat](https://www.flaticon.com/free-icon/chef-hat_2972043?term=hat&page=1&position=57)
 - [Graduation hat](https://www.flaticon.com/free-icon/graduation-hat_999663?term=hat&page=1&position=85)
+
+**Color Palette Generator**
+https://coolors.co/04214f-e86a92-f7e733-f7f7f9-41e2ba
+
+## Step 4: Start Coding Using Android Studio
+- XML
+- Java
