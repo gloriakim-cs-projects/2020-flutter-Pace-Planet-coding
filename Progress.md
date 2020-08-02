@@ -2,14 +2,22 @@
 
 **Fully Completed**
 
-- XML Fragments
+1. Main
+- chronometer
+2. Universe
+- Firebase connection
+3. Team
+-
+4. AR (changed from rank)
+-
+5. Others
+-
 
 **Need to Complete**
 
 1. Main
-- chronometer
-
 2. Universe
+- Firebase implementation
 3. Team
 4. AR (changed from rank)
 5. Others
