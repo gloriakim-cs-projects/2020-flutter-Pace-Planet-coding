@@ -18,6 +18,10 @@
 
 1. Main
 2. Universe
+- check to update several infomration about users at once with uid
+- connect status with circles in the "universe"
+- change the color based on status
+
 - Firebase implementation
 - change color/size based on studying hours
 3. Team
