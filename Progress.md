@@ -11,7 +11,7 @@
 4. AR (changed from rank)
 -
 5. Others
--
+- Finished setting all instruction fragments
 
 **Need to Complete**
 
