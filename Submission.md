@@ -1,3 +1,5 @@
+The below content is copied form my [Dev Post](https://devpost.com/software/pace-planet#updates).
+
 ## Inspiration
 
 Having a galaxy adventure is fantastic and romantic, just like Hackathons! 
