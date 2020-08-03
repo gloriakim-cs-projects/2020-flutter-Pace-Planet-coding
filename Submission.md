@@ -1,4 +1,6 @@
-The below content is copied form my [Dev Post](https://devpost.com/software/pace-planet#updates).
+## Submission
+
+The below content is submitted to my [Dev Post](https://devpost.com/software/pace-planet#updates).
 
 ## Inspiration
 
