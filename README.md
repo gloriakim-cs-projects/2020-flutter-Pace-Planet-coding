@@ -1,5 +1,5 @@
-# MLH_to_the_moon_and_hack
-This repository is to write the progress of creating a project for MLH's To The Moon and Hack!
+# Pace Planet
+This repository is to write the progress of creating a project for MLH's "To The Moon and Hack"!
 
 ## STEP 0. Useful Resources
 
@@ -14,7 +14,6 @@ This repository is to write the progress of creating a project for MLH's To The 
 - **Radar.io:** location-aware projects (ex) a delivery tracker. campus building locator. Find my Friends
 - **UiPath Automation:** add automation to the "stuffs"
 - **Google Cloud:** can do ML calculations
-- **Octocat Competition**
 
 ***PLAN1: MANAGEABLE + SOME CHALLENGES***
 
